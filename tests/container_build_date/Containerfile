@@ -1,0 +1,4 @@
+FROM python:3.9-alpine
+
+LABEL maintainer="Uco Mesdag <uco@mesd.ag>"
+LABEL build_date="2021-12-19T15:09:32CET"
