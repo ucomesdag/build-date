@@ -1,0 +1,8 @@
+---
+
+- id: container_build_date
+  name: Container update build_date label
+  entry: container_build_date.sh
+  language: script
+  description: Container update build_date label.
+
